@@ -7,6 +7,8 @@ __Nothing here yet__
 
 This is currently a simple HTML mock-up of the first screen. Feel free to replace this entirely... Currently looking at making this for iOS and / or Android for use on a tablet installed inside at the entrance. Framework may change but for now I'm assuming this will be created on Cordova.
 
+BTW: Foundation was used for quick prototyping. Angular was thrown in for kicks.
+
 See screen-shots of layout sketch (coming soon).
 
  == App Outline ==
